@@ -1,0 +1,7 @@
+Hola Soy El Archivo
+De Ejemplo Para La
+Prueba De Abrir,
+Modificar, Leer,
+Escribir y Borrar Datos
+Dentro De Un Archivo
+De Texto.

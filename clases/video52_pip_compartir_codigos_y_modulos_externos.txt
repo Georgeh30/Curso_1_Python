@@ -1,0 +1,7 @@
+Pasos para compartir los modulos utilizados en el codigo que compartimos a otra maquina
+
+1. Debemos activar nuestro entorno virtual dentro del cmd, porque ahi es donde se instalaron los modulos externos
+2. Ingresamos el siguiente comando para crear el archivo de los modulos que se deben instalar --> (pip freeze > requirements.txt)
+3. Dentro de la Maquina del usuario al que le compartimos el codigo de igual manera debera activar su entorno virtual dentro
+   de cmd y debemos pasarle el archivo requirements.txt
+4. Ahora debera ingresar el siguiente comando para instalar los modulos --> (pip install requirements.txt)

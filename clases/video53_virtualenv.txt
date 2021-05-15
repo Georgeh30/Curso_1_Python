@@ -1,0 +1,9 @@
+Comando para el uso del entoro virtual para encapsular los modulos o librerias a usar en cada proyecto distinto
+
+1. Para la instalacion del entorno virtual en caso de no tenerlo es --> pip install virtualenv
+2. Para Crear un entorno virtual tenemos dos opciones uno es incluyendolo al lenguaje ya instalado python, el cual
+    seria --> python -m venv nombredelentorno y la segunda opcion seria para agregar las librerias o modulos
+    de python pero esto solo seria necesario si no se tuviera instalado esas librerias ya
+    y seria --> virtualenv nobredelentorno
+3. Para activar el entorno debemos ir a la ruta del Scripts dentro de la carpeta creada del entorno virtual y
+   ejecutar el comando --> activate y para desactivar el entorno virtual es con --> deactivate
